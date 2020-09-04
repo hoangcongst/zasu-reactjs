@@ -1,0 +1,1 @@
+### Reactjs created by create-react-app with redux, redux-saga and authentication
