@@ -1,0 +1,12 @@
+#homeSearchFunction {
+    height: 768px;
+    background-image: url(../../../public/images/home-background.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+#inner-content {
+    width: 100%;
+    position: absolute;
+    top: 40%;
+}

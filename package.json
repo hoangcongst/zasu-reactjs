@@ -1,0 +1,42 @@
+{
+  "name": "react-tutor-cra",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^2.9.1",
+    "babel-core": "^6.24.0",
+    "babel-polyfill": "^6.23.0",
+    "firebase": "^3.7.6",
+    "material-ui": "^0.17.1",
+    "moment": "^2.17.1",
+    "react": "^15.4.2",
+    "react-autocomplete": "^1.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-custom-scrollbars": "^4.0.2",
+    "react-datetime": "^2.8.8",
+    "react-dom": "^15.4.2",
+    "react-dropzone": "^3.12.2",
+    "react-google-maps": "^6.0.1",
+    "react-google-maps-loader": "^2.0.2",
+    "react-google-places-suggest": "^2.0.1",
+    "react-redux": "^5.0.2",
+    "react-router": "^3.0.2",
+    "react-scrollbar": "^0.5.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.8.2",
+    "redux-persist": "^4.4.2",
+    "redux-saga": "^0.14.3",
+    "semantic-ui-ember": "github:semantic-org/Semantic-UI-Ember",
+    "semantic-ui-react": "^0.67.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
